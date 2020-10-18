@@ -1,3 +1,5 @@
+//Douglas willian cb3005348
+//João Vitor Gino cb3005488
 import java.util.Scanner;
 import java.util.Date;
 import java.text.DateFormat;
